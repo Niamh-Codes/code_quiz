@@ -1,4 +1,4 @@
-var questions = [
+const questions = [
 {
     title: "// What is the primary ingredient in guacamole?",
     choices: ['Tomatoes ', 'Avacados', 'Onions', 'Cilantro'],

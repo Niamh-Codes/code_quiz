@@ -27,11 +27,16 @@ button {
 }
 
 button:hover {
-  background-color: #8570a5;
+  background-color: #a57091;
 }
 
 .choices button {
   display: block;
+}
+
+.questionTitles title{
+  display: block;
+  size: 20px;
 }
 
 input[type="text"] {
